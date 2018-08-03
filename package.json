@@ -1,0 +1,14 @@
+{
+  "name": "txtbelt",
+  "version": "1.0.0",
+  "description": "an api wrapper for the self hosted textbelt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Heinzelman",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.8.3"
+  }
+}
