@@ -1,14 +1,29 @@
 {
   "name": "txtbelt",
   "version": "1.0.0",
-  "description": "an api wrapper for the self hosted textbelt",
+  "description": "simple api wrapper for self hosted textbelt api",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loganrose/txtbelt.git"
+  },
+  "keywords": [
+    "textbelt"
+  ],
   "author": "Logan Heinzelman",
-  "license": "ISC",
-  "dependencies": {
-    "superagent": "^3.8.3"
-  }
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loganrose/txtbelt/issues"
+  },
+  "homepage": "https://github.com/Loganrose/txtbelt#readme"
 }
