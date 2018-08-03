@@ -5,5 +5,6 @@ TextBelt is free open source API that allows people to send SMS messages. It wor
 
 #### Sending a text in the US
 ```js
+const sms = require("txtbelt");
 sms.text('Phone Number', 'message');
 ```
