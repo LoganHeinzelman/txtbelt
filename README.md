@@ -1,4 +1,5 @@
 # txtbelt
+[![npm version](https://badge.fury.io/js/txtbelt.svg)](https://badge.fury.io/js/txtbelt)
 
 TextBelt is free open source API that allows people to send SMS messages. It works by send an email to the phone service end point where it is then delivered to the intended person.
 
